@@ -1,3 +1,13 @@
+#Me
+main.py
+misc/
+
+
+# Cluster specific
+*cluster*
+
+
+
 *.xml
 *.json
 .ipynb_checkpoints/
