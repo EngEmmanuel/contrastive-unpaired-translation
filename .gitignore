@@ -5,7 +5,7 @@ misc/
 
 # Cluster specific
 *cluster*
-
+run_outputs/*
 
 *.xml
 *.json
